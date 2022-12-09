@@ -1,0 +1,31 @@
+
+  @font-face {
+    font-family: 'vollkorn';
+    src:  url('../fonts/Vollkorn-Regular.woff2') format(woff2),
+	url('../fonts/Vollkorn-Regular.woff') format(woff),
+	url('../fonts/Vollkorn-Regular.ttf') format(ttf);
+    font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'vollkorn';
+    src:  url('../fonts/Vollkorn-Italic.woff2') format(woff2),
+	url('../fonts/Vollkorn-Italic.woff') format(woff),
+	url('../fonts/Vollkorn-Italic.ttf') format(ttf);
+    font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+  }
+  @font-face {
+    font-family: 'montserrat';
+    src:  url('../fonts/Montserrat-Regular.woff2') format(woff2),
+	url('../fonts/Montserrat-Regular.woff') format(woff),
+	url('../fonts/Montserrat-Regular.ttf') format(ttf);
+    font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+  }
+
+  
